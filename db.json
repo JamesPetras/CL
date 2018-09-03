@@ -1,12 +1,12 @@
 {
-[ "type": 1,
+"contactType": [ "type": 1,
   "emails": [
     { "email": "zika@zika.com", "title": "Zika" },
    { "email": "mika@zika.com", "title": "Mika" },
     { "email": "pika@zika.com", "title": "Pika" },
   ]
   ],
-  [ "type": 2,
+ "contactType": [ "type": 2,
   "emails": [
     { "email": "zika@fila.com", "title": "Zika fila" },
    { "email": "mika@fila.com", "title": "Mika fila" },
